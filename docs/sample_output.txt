@@ -1,0 +1,22 @@
+abc@outlook.com via sendgrid.net 
+
+Flight Price Alert
+========================================
+
+Route:          MAD -> BCN
+Departure Date: 2026-06-15
+Lowest Fare:    USD 69.70
+Your Threshold: USD 300.00
+Saving:         USD 230.30 below threshold
+
+========================================
+This alert was generated automatically by the NGO Flight Monitor.
+Please verify the fare on the Amadeus portal or your travel agent
+before booking.
+
+========================================
+AI Price Analysis
+========================================
+This is an exceptionally good deal for a flight from Madrid (MAD) to Barcelona (BCN)! 
+At USD 69.70, the fare is significantly below the set alert threshold of USD 300 and suggests very low demand or a promotional price. 
+Given this price point, the traveler should strongly consider booking soon, as it's unlikely to last and could easily increase.
